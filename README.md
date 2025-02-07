@@ -1,4 +1,4 @@
-# Install-DeepSeek_Ollama-on-AWS-EC2
+### Install-DeepSeek_Ollama-on-AWS-EC2
 
 ![deepseek ec2](https://github.com/user-attachments/assets/d534252e-422a-413d-8dc2-acd1a9949512)
 
@@ -6,10 +6,12 @@
 
 ## Introduction
 
-## This repository contains the code and instructions to create models the Ollama and DeepSeek models on a G4 type EC2 instance with Ubuntu.
+# This repository contains the code and instructions to create models the Ollama and DeepSeek models on a G4 type EC2 instance with Ubuntu.
 
 # Installing DeepSeek on an AWS EC2 instance offers a number of significant benefits for accelerating language and machine learning models. With DeepSeek, you can Accelerate inference
+
 # DeepSeek leverages the GPU architecture of EC2 instances to accelerate language model inference, significantly reducing response times. You can also improve efficiency
+
 # by using DeepSpeed ​​technology, DeepSeek optimizes instance resource usage, enabling higher performance with fewer resources. Scalability – EC2 instances offer a wide range of scalability options, allowing you to fine-tune resources based on the needs of your model. AWS integration – AWS integration allows for easy instance setup and management, as well as access to other AWS services for increased functionality. Reduce costs By leveraging the efficiency of DeepSeek and the scalability of EC2 instances, you can significantly reduce the costs of running your Installing DeepSeek on an AWS G4 EC2 instance can offer several benefits, especially if you are using artificial intelligence (AI) or machine learning (ML) models that require accelerated processing capabilities.
 ![DeepSeek_fish_(1)-transformed](https://github.com/user-attachments/assets/69a6d2f9-c5d8-435e-bc7d-837bff9fba36)
 
